@@ -1,0 +1,28 @@
+{
+  "name": "startup_planet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "a dataset of the world’s most promising startups",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayoubxpy/Express-API.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "ayoubxpy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayoubxpy/Express-API/issues"
+  },
+  "homepage": "https://github.com/Ayoubxpy/Express-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
